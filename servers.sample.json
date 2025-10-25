@@ -1,0 +1,8 @@
+[
+  {
+    "name": "US-East",
+    "host": "us-east.example.com",
+    "publicKey": "<server-public-key>",
+    "endpoint": "us-east.example.com:51820"
+  }
+]
